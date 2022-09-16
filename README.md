@@ -1,10 +1,5 @@
-- 👋 Hi, I’m @An
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
-
-<!---
-Anl9x/Anl9x is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+- 👋 Hi, tôi là An
+- 👀 Chào mừng bạn đến với website thử nghiệm của tôi
+- 🌱 Tôi đang cố gắng cải tiến những hiển thị và chức năng cho website của mình
+- 💞️ Vui lòng đợi trong thời gian sắp tới nhé
+- 📫 Xin chào bạn! chúc 1 ngày tốt lành
